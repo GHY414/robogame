@@ -3,7 +3,7 @@
 
 ---
 
-## PDF 解析模块 / PDF Reader Module
+## 附件：PDF 解析模块 / PDF Reader Module
 
 支持从本地文件或上传（multipart/form-data）读取 PDF，逐页提取文本并返回结构化 JSON，包含页码、文本和元数据（标题、作者、创建时间）。遇到扫描版（图片型）PDF 时会给出友好提示。
 
